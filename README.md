@@ -24,7 +24,7 @@ TensorFlow Lite model (optional for customization)
 
 ## Installation
 Clone the repository.
-git clone https://github.com/yourusername/citilytics.git
+git clone https://github.com/DilukM/CItilytics.git
 
 ## Usage
 Place the device near a road to start detecting vehicles with advertisements.
